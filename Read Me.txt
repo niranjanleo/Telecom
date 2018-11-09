@@ -7,6 +7,8 @@ It is one of two primary factors that determine the steady-state level of custom
 The business problem we are to solve here is to predict whether the customer will churn or not. 
 By doing this the organization can take measures to retain customers and in turn reduce Customer Attrition.
 
+The data is uploaded in the repository. 
+
 In the given data we have 20 features and 1 Label coloumn which is churn. 
 
 The basic visual analysis and EDA was done in Tableau and the file is uploaded for your reference. 
